@@ -1,2 +1,3 @@
 # hello-world
-learn how to
+learn how to git
+begin...
